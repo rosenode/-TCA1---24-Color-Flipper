@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@400..700&display=swap');
+
+#green {
+    background-color: rgb(33, 148, 81);
+    font-family: 'DynaPuff';
+    border-radius: 10%;
+    border-width: 5px;
+}
+
+#red {
+    background-color: rgb(177, 19, 27);
+    font-family: 'DynaPuff';
+    border-radius: 10%;
+    border-width: 5px;
+}
+
+#blue {
+    background-color: rgb(0, 140, 255);
+    font-family: 'DynaPuff';
+    border-radius: 10%;
+    border-width: 5px;
+}
+
+#random {
+    font-family: 'DynaPuff';
+    border-radius: 10%;
+    border-width: 5px;
+}
+
+button {
+    border-radius: 5px;
+    width: 300px;
+    height: 50px;
+    margin: 5px;
+    border-color: rgb(3, 3, 8);
+}
+
+.project {
+    font-size: 80px;
+    text-align: center;
+    font-family: 'DynaPuff';
+    color: rgb(0, 0, 0);
+    -webkit-text-stroke: 1px rgb(255, 251, 254);
+}
+
+
+/* ALERT */
+.alert {
+    padding: 20px;
+    background-color: #000000;
+    color: white;
+  }
+  
+  .closebtn {
+    margin-right: 15px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    float: left;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  .closebtn:hover {
+    color: black;
+  }
